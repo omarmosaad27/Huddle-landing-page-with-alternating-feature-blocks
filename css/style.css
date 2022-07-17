@@ -99,6 +99,8 @@ img{
         background-size: cover;
         background-repeat: no-repeat;
         height: auto;
+        background-color: var(--Very-Pale-Cyan);
+
     }
 }
 @media screen and (max-width:767px){
