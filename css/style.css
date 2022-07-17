@@ -94,7 +94,7 @@ img{
 }
 @media screen and (max-width:850px){
     .hero{
-        background-image: url(../images//bg-hero-mobile.png);
+        background-image: url(../images/bg-hero-mobile.png
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
